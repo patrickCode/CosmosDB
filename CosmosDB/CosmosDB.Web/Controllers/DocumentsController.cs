@@ -1,9 +1,9 @@
-﻿using CosmosDB.Web.Models;
+﻿using System;
 using DocumentDB.Data;
-using Microsoft.AspNetCore.Mvc;
-using System;
-using System.Collections.Generic;
+using CosmosDB.Web.Models;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
+using System.Collections.Generic;
 
 namespace CosmosDB.Web.Controllers
 {   
